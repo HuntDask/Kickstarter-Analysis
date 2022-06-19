@@ -1,3 +1,8 @@
 # Analysis of Kickstarter Campaigns
 Performing analysis on Kickerstarter data to uncover trends for future references. Examined thousands of campaigns to better understand the differences between successful and failed Kickstarters and developed various date/descriptive statistics.
-![image](https://user-images.githubusercontent.com/107444840/174462158-33801ef4-4723-4a05-802f-1351b9ee04ef.png)
+![image](https://user-images.githubusercontent.com/107444840/174462335-fb2d4ab5-5d3a-4cce-b0da-82ed512523c6.png)
+![image](https://user-images.githubusercontent.com/107444840/174462318-de69e065-abfd-4997-ac38-f14dc3cd6246.png)
+![image](https://user-images.githubusercontent.com/107444840/174462352-17c71b46-1df2-43d3-ad30-f99996d504ed.png)
+![image](https://user-images.githubusercontent.com/107444840/174462365-ba8205c4-6d79-48d9-a2a9-5b16db5bf3a3.png)
+![image](https://user-images.githubusercontent.com/107444840/174462308-18b89724-9e01-4a83-8baf-a08221df0f9d.png)
+From our findings, we decided that there are a few things we need to address for our Kickstarter for Louise. Kickerstart campaigns in the United States that have succeeded have had much lower fundraising goals than failed Kickstarter campaigns, so lousie since her asking is twice the average needs to be re-examined. Both the mean and median values are lower than most the successful pledges, so it shows that we need to look closer at the categories of what specific Kickstarter we are trying to create. When looking at categories, we determine that the theater is a very popular and successful type of campaign overall, espcially in the summer months like June. The mean we need to aim for our campaign goal is around 4000$. lousie will need to lower it a small amount however due to the whisker plot showing the range of outliers for amount pledged to give her the best chance to succeed. 
