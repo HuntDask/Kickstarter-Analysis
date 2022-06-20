@@ -43,7 +43,8 @@ Another table and graph setup we could create for our research is examining the 
 
 ![Outcomes vs Goals](https://user-images.githubusercontent.com/107444840/174689436-aef16d4f-cb30-4fd4-b722-c4ad5e696e5c.png)
 
-![Theater Outcomes vs Lanuch](https://user-images.githubusercontent.com/107444840/174689447-f8659f5b-6eda-463a-8f60-182d40dd908c.png)
+
+![Theater Outcomes by Launch Date](https://user-images.githubusercontent.com/107444840/174689612-16ecd0ac-ec1a-457a-8fa9-e2adf3d8e7c4.png)
 
 
 
