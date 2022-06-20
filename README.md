@@ -41,13 +41,17 @@ One table and graph that we could potentially research to better our analysis is
 Another table and graph setup we could create for our research is examining the years as to which the campaigns were created and the outcomes of it. We looked at the months and totaled those to find the percentages of successful or failed, but a difference in success could depend on which specific year they were started. Each year the economy is in a different standing, different trends are occurring, and these simple examples could have a big factor in the outcome of these various fundraising campaigns.
 
 
+![Outcomes vs Goals](https://user-images.githubusercontent.com/107444840/174689436-aef16d4f-cb30-4fd4-b722-c4ad5e696e5c.png)
+
+![Theater Outcomes vs Lanuch](https://user-images.githubusercontent.com/107444840/174689447-f8659f5b-6eda-463a-8f60-182d40dd908c.png)
+
+
+
+
+
 ## Kickstarter Challenge Excel File
 [Kickstarter-Analysis Challenge.xlsx](https://github.com/HuntDask/Kickstarter-Analysis/files/8944647/Kickstarter-Analysis.Challenge.xlsx)
 
 
-[Kickstarter-Analysis Challenge.xlsx](https://github.com/HuntDask/Kickstarter-Analysis/files/8944662/Kickstarter-Analysis.Challenge.xlsx)
-
-
-[Kickstarter-Analysis Excel.xlsx](https://github.com/HuntDask/Kickstarter-Analysis/files/8944663/Kickstarter-Analysis.Excel.xlsx)
 
 
