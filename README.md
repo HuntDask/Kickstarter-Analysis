@@ -39,11 +39,15 @@ One limitation that we can see clearly from the Outcomes Based on Goal chart is 
 
 One table and graph that we could potentially research to better our analysis is the average donations per fundraising campaign and how they correlate with the success of the goals. If it is a very low/high average donation it could have a difference that we do not originally see from our original Kickstarter data set.
 Another table and graph setup we could create for our research is examining the years as to which the campaigns were created and the outcomes of it. We looked at the months and totaled those to find the percentages of successful or failed, but a difference in success could depend on which specific year they were started. Each year the economy is in a different standing, different trends are occurring, and these simple examples could have a big factor in the outcome of these various fundraising campaigns.
-[Uploadi[Kickstarter-Analysis Excel.xlsx](https://github.com/HuntDask/Kickstarter-Analysis/files/8944641/Kickstarter-Analysis.Excel.xlsx)
-ng Kickstarter-Analysis Challenge.xlsx…]()
+
 
 ## Kickstarter Challenge Excel File
 [Kickstarter-Analysis Challenge.xlsx](https://github.com/HuntDask/Kickstarter-Analysis/files/8944647/Kickstarter-Analysis.Challenge.xlsx)
 
+
+[Kickstarter-Analysis Challenge.xlsx](https://github.com/HuntDask/Kickstarter-Analysis/files/8944662/Kickstarter-Analysis.Challenge.xlsx)
+
+
+[Kickstarter-Analysis Excel.xlsx](https://github.com/HuntDask/Kickstarter-Analysis/files/8944663/Kickstarter-Analysis.Excel.xlsx)
 
 
